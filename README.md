@@ -1,2 +1,5 @@
-# Text_Sementation
-This is a small project where depicting the usage of text segmentation to categorize jobs into correct category based on the descriptions and summary of the job.
+# Text Classification on German data 
+This is a case study on text segmentation to categorize german text into appropriate categories.
+
+## Objectives:
+The dateset is from a ecommerce service marketplace where customers would request for services and craftman would look for a job, for example if  
